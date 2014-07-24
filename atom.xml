@@ -4,7 +4,7 @@
   <title><![CDATA[Losism]]></title>
   <link href="http://blakgeek.github.io/atom.xml" rel="self"/>
   <link href="http://blakgeek.github.io/"/>
-  <updated>2014-04-06T13:43:53-04:00</updated>
+  <updated>2014-07-24T12:45:27-04:00</updated>
   <id>http://blakgeek.github.io/</id>
   <author>
     <name><![CDATA[blakgeek]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[html.html]]></title>
+    <link href="http://blakgeek.github.io/blog/2014/04/06/html-dot-html/"/>
+    <updated>2014-04-06T14:57:42-04:00</updated>
+    <id>http://blakgeek.github.io/blog/2014/04/06/html-dot-html</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Look Ma! I'm Blogging]]></title>
